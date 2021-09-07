@@ -1,0 +1,40 @@
+html, .bg, body .root {
+  background-color: #0e0e0e;
+  font-size: 35px;
+}
+
+.infeild{
+  width: 100%;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  border: none;
+  text-align: right;
+}
+.infeild:focus{
+  outline: none;
+}
+.infeild:hover{
+  outline: none;
+}
+
+.col{
+  background-color: #abacac;
+  border: 1px solid black;
+  padding: 0 !important;
+}
+
+.btn1{
+  border: none;
+  background: transparent;
+  width: 100%;
+}
+
+.btn1:focus{
+  border: none;
+  outline: none;
+}
+
+.btn-c{
+  background-color: #ff8100;
+}
